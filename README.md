@@ -12,7 +12,7 @@ Insérer le fichier papybase.sql dans phpmyadmin
 
 Modifier les lignes dans le server.cfg selon votre fournisseur d'accès pour la liaison SQL/clé licence et clé steam Web api
 
-****MODIFIER LES POINTS DES DROGUES/METIERS SELON VOTRE CONVENANCE*****
+***MODIFIER LES POINTS DES DROGUES/METIERS/ORG SELON VOTRE CONVENANCE***
 
 
 
